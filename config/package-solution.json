@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-redux-client-side-solution",
+    "id": "f8f3cb7d-41b3-4887-808d-7e4a5b5293d3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-redux.sppkg"
+  }
+}
